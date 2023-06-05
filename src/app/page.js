@@ -16,7 +16,7 @@ const Home = () => {
       {['product1', 'product2'].map((product) => product)}
     </div>  
 
-    <FooterBanner/>
+    FooterBanner
 
     </>
   )
